@@ -1,0 +1,14 @@
+D:\Programming\Geolocator\Geolocator\bin\Debug\net10.0\Geolocator.exe
+D:\Programming\Geolocator\Geolocator\bin\Debug\net10.0\Geolocator.deps.json
+D:\Programming\Geolocator\Geolocator\bin\Debug\net10.0\Geolocator.runtimeconfig.json
+D:\Programming\Geolocator\Geolocator\bin\Debug\net10.0\Geolocator.dll
+D:\Programming\Geolocator\Geolocator\bin\Debug\net10.0\Geolocator.pdb
+D:\Programming\Geolocator\Geolocator\obj\Debug\net10.0\Geolocator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Geolocator\Geolocator\obj\Debug\net10.0\Geolocator.AssemblyInfoInputs.cache
+D:\Programming\Geolocator\Geolocator\obj\Debug\net10.0\Geolocator.AssemblyInfo.cs
+D:\Programming\Geolocator\Geolocator\obj\Debug\net10.0\Geolocator.csproj.CoreCompileInputs.cache
+D:\Programming\Geolocator\Geolocator\obj\Debug\net10.0\Geolocator.dll
+D:\Programming\Geolocator\Geolocator\obj\Debug\net10.0\refint\Geolocator.dll
+D:\Programming\Geolocator\Geolocator\obj\Debug\net10.0\Geolocator.pdb
+D:\Programming\Geolocator\Geolocator\obj\Debug\net10.0\Geolocator.genruntimeconfig.cache
+D:\Programming\Geolocator\Geolocator\obj\Debug\net10.0\ref\Geolocator.dll
